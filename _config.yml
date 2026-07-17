@@ -15,8 +15,8 @@
 # ------------------------------------------------------------------------------
 
 # Your site's title - appears in the top-left of every page and in the browser tab.
-# Example: "Nykole Crevits" or "Nykole Crevits - Bioinformatics Portfolio"
-title: "Your Name - Bioinformatics Portfolio"
+# Example: "Nykole Crevits - Bioinformatics Portfolio"
+title: "BIOT74000 - TEMPLATE Bioinformatics E-Portfolio"
 
 # A short subtitle/description for the site.
 description: "BIOT74000 Bioinformatics E-Portfolio, Bachelor of Applied Biotechnology (Honours), Conestoga College."
@@ -26,16 +26,20 @@ description: "BIOT74000 Bioinformatics E-Portfolio, Bachelor of Applied Biotechn
 #  or your site's styling (colours, fonts, layout) will break.
 # -------------------------------------------------------------------
 
-# Replace "yourusername" with your GitHub username (lowercase).
-url: "https://yourusername.github.io"
+# Replace "nerdkole" with YOUR GitHub username (lowercase).
+url: "https://nerdkole.github.io"
+  # Replace "yourusername" with your GitHub username (lowercase).
+  #url: "https://yourusername.github.io"
 
 # This MUST match your repository name exactly, including the leading slash.
 # If you named your repository "biot74000-portfolio" as instructed, leave this as-is.
 # If you named it something else, change the part after the slash to match.
 baseurl: "/biot74000-portfolio"
 
-# Replace with: yourusername/biot74000-portfolio
-repository: "yourusername/biot74000-portfolio"
+# Replace "nerdkole" with: yourusername/biot74000-portfolio
+repository: "nerdkole/biot74000-portfolio"
+  # Replace with: yourusername/biot74000-portfolio
+  #repository: "yourusername/biot74000-portfolio"
 
 # -------------------------------------------------------------------
 #  YOUR PROFILE (appears in the sidebar on every page)
@@ -49,7 +53,7 @@ author:
   # Optional links in your sidebar. Leave blank to hide. Add your own if you like.
   email: ""
   github: ""            # your GitHub username, e.g. "yourusername"
-  linkedin: ""          # your LinkedIn handle, e.g. "nerdkole"
+  linkedin: ""          # your LinkedIn handle, e.g. "yourname"
 
 # ------------------------------------------------------------------------------
 #  ▲▲▲  END OF SECTION TO EDIT  ▲▲▲
