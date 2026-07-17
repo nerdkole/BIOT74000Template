@@ -26,20 +26,20 @@ description: "BIOT74000 Bioinformatics E-Portfolio, Bachelor of Applied Biotechn
 #  or your site's styling (colours, fonts, layout) will break.
 # -------------------------------------------------------------------
 
-# Replace "nerdkole" with YOUR GitHub username (lowercase).
-url: "https://nerdkole.github.io"
-  # Replace "yourusername" with your GitHub username (lowercase).
-  #url: "https://yourusername.github.io"
+  ## Replace "nerdkole" with YOUR GitHub username (lowercase).
+  #url: "https://nerdkole.github.io"
+# Replace "yourusername" with your GitHub username (lowercase).
+url: "https://yourusername.github.io"
 
 # This MUST match your repository name exactly, including the leading slash.
 # If you named your repository "biot74000-portfolio" as instructed, leave this as-is.
 # If you named it something else, change the part after the slash to match.
 baseurl: "/biot74000-portfolio"
 
-# Replace "nerdkole" with: yourusername/biot74000-portfolio
-repository: "nerdkole/biot74000-portfolio"
-  # Replace with: yourusername/biot74000-portfolio
-  #repository: "yourusername/biot74000-portfolio"
+  ## Replace "nerdkole" with: yourusername/biot74000-portfolio
+  #repository: "nerdkole/biot74000-portfolio"
+# Replace with: yourusername/biot74000-portfolio
+repository: "yourusername/biot74000-portfolio"
 
 # -------------------------------------------------------------------
 #  YOUR PROFILE (appears in the sidebar on every page)
